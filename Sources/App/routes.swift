@@ -4,7 +4,7 @@ import Vapor
 public func routes(_ router: Router) throws {
     // Basic "It works" example
     router.get { req in
-        return "Vamos demitir a jay hoje mesmo?"
+        return "Website feito em SWIFT! SWIFT ROCKS!"
     }
     
     // Basic "Hello, world!" example
